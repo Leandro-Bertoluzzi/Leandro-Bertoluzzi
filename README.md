@@ -8,3 +8,4 @@
 - 🌱 I’m currently learning: OpenCV in Python and C++, C++ wxWidgets, Docker+Python, NextJS.
 - 💬 Ask me about electronics, web dev and programming in general! 😃.
 - 📫 How to reach me: leabertoluzzi@gmail.com
+- :atom: Fun fact: I also love languages, I speak Spanish, English, Italian and German 🤓 and I'm currently learning a few more.
